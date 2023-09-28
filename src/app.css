@@ -1,0 +1,37 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.Header {
+  background-color: rgb(164, 225, 225);
+  display: flex;
+  justify-content: space-between;
+  height: 100 px;
+  width: 100%;
+}
+
+.nav-items > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+}
+
+.card {
+  width: 200px;
+  padding: 5px;
+  margin: 20px 10px;
+  border: 1px solid black;
+}
+
+.card > img {
+  width: 100%;
+}
+
+.restaurant-list {
+  display: flex;
+  flex-wrap: wrap;
+}
