@@ -35,3 +35,7 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+.restaurant-list {
+  justify-content: center;
+}
